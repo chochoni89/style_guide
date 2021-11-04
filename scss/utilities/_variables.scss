@@ -1,0 +1,26 @@
+// ======================================
+//  Variables
+// ======================================
+
+// Colors
+$color-base: #777;
+$color-link: #51ddfc;
+
+$color-headline-primary: #58e1c1;
+$color-headline-secondary: $color-base;
+
+$color-bg-default: #51ddfc;
+$color-bg-error: #e4757a;
+$color-bg-info: #927bc1;
+$color-bg-success: #63cc82;
+$color-bg-warning: #fd7856;
+
+// Layout
+$max-width: 1400px;
+$min-width: 768px;
+
+//Breakpoints
+$break-xs: 575px;
+$break-s: 576px;
+$break-m: 768px;
+$break-l: 992px;
